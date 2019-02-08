@@ -6,7 +6,7 @@
  *
  *      Methods:
  *          Constructors
- *              Default constructor sets instance variables to 0 and ""
+ *              Default constructor sets instance variables to ""
  *              Parameterized constructor taking rating, id and title as parameters
  *          toString() - String with rating, ID and title
  *          calcLateFees - takes input of number of days and returns the late fee
